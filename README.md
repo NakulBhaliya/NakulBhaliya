@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ADD8E6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Nakul+Bhaliya;I%27m+18+years+old;I%27m+from+India;Welcome!)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ADD8E6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Nakul+Bhaliya;I%27m+18+years+old;I%27m+from+India;Welcome!)
 
 &ensp;
 

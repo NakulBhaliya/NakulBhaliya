@@ -4,9 +4,9 @@
 
 &ensp;
 
-<div align="center"> 
+<!-- <div align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NakulBhaliya&show_icons=true&theme=calm&hide=php,blade" />
-</div>
+</div> -->
 
 &ensp;
 
